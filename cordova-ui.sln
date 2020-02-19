@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "cordova-ui", "cordova-ui\cordova-ui.jsproj", "{47CF8F7B-8C30-496C-A360-A8653B1A0B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Android = Debug|Android
+		Debug|iOS = Debug|iOS
+		Debug|Windows-ARM = Debug|Windows-ARM
+		Debug|Windows-x64 = Debug|Windows-x64
+		Debug|Windows-x86 = Debug|Windows-x86
+		Release|Android = Release|Android
+		Release|iOS = Release|iOS
+		Release|Windows-ARM = Release|Windows-ARM
+		Release|Windows-x64 = Release|Windows-x64
+		Release|Windows-x86 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Android.ActiveCfg = Debug|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Android.Build.0 = Debug|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Android.Deploy.0 = Debug|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|iOS.ActiveCfg = Debug|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|iOS.Build.0 = Debug|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|iOS.Deploy.0 = Debug|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-ARM.ActiveCfg = Debug|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-ARM.Build.0 = Debug|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-ARM.Deploy.0 = Debug|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x64.ActiveCfg = Debug|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x64.Build.0 = Debug|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x64.Deploy.0 = Debug|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x86.ActiveCfg = Debug|Windows-x86
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x86.Build.0 = Debug|Windows-x86
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Debug|Windows-x86.Deploy.0 = Debug|Windows-x86
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Android.ActiveCfg = Release|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Android.Build.0 = Release|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Android.Deploy.0 = Release|Android
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|iOS.ActiveCfg = Release|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|iOS.Build.0 = Release|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|iOS.Deploy.0 = Release|iOS
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-ARM.ActiveCfg = Release|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-ARM.Build.0 = Release|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-ARM.Deploy.0 = Release|Windows-ARM
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x64.ActiveCfg = Release|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x64.Build.0 = Release|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x64.Deploy.0 = Release|Windows-x64
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x86.ActiveCfg = Release|Windows-x86
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x86.Build.0 = Release|Windows-x86
+		{47CF8F7B-8C30-496C-A360-A8653B1A0B48}.Release|Windows-x86.Deploy.0 = Release|Windows-x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40948DBE-8BD5-4568-9C22-3216FD2497CE}
+	EndGlobalSection
+EndGlobal
